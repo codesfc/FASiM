@@ -1,24 +1,26 @@
-# Simulink Models for Analog Filters
-The Simulink models for the library of the analog filters can be found on the following links.
 
-01. Sallen-Key Low Pass Filter     
+######   Simulink models for the analog filters can be found on the following links.   ######
 
-02. Sallen-Key High Pass Filter
+01. Sallen-Key Low Pass Filter             https://www.dropbox.com/sh/lthgiy1g3efrjil/AABtjFmoGahCLhjkd47lA9q4a?dl=0
 
-03. RC Lowpass Filter
+02. Sallen-Key High Pass Filter            https://www.dropbox.com/sh/jlmvy7vbgyuy26o/AACB73bS3Jkyq0CuOUii_urya?dl=0
 
-04. First Order All Pass
+03. RC Lowpass Filter                      https://www.dropbox.com/sh/ckqrdzyad5zqqf9/AAARLSuyLyFiwnZ2KlZR7nO7a?dl=0
 
-05. Second Order All Pass
+04. First Order All Pass                   https://www.dropbox.com/sh/mnkrh4m84dkn2r3/AABeu0FwgHomUKhZDYx9jtm-a?dl=0
 
-06. Sallen-Key Band Pass Filter
+05. Second Order All Pass                  https://www.dropbox.com/sh/ezgjuptuliwaf12/AABDBHGNhzbCPatugiBIo1fWa?dl=0
 
-07. Mutiple Feedback Low Pass
+06. Sallen-Key Band Pass Filter            https://www.dropbox.com/sh/vmaj7rpsmv1tzqb/AABvTO6YDPzY7SvJqrl2EAWRa?dl=0
 
-08. Multiple Feedback High Pass
+07. Mutiple Feedback Low Pass              https://www.dropbox.com/sh/iudzalhg71hed51/AAB2nt1UKrw9IRGlZTI-zFIca?dl=0
 
-09. Multiple Feedback Band Pass
+08. Multiple Feedback High Pass            https://www.dropbox.com/sh/ybd4r6xkaugvfwf/AACEuIfFruMtIXuCWGF_wJ9sa?dl=0
 
-10. Boctor Notch Low Pass
+09. Multiple Feedback Band Pass            https://www.dropbox.com/sh/tyw13iqfeh1zgdn/AACMlX15fW1MR4-40wsabIDka?dl=0
 
-11. Boctor Notch High Pass
+10. Boctor Notch Low Pass                  https://www.dropbox.com/sh/cu0279cph2m2irh/AABglcKlIXY9IPnHbmwMks3Aa?dl=0
+
+11. Boctor Notch High Pass                 https://www.dropbox.com/sh/6rvpeo8awpeiumv/AAC-VXqqPY0xXckjGEoifIHga?dl=0
+
+00. Instructions                           https://www.dropbox.com/sh/yul0clrr40cshbe/AADGdNKwqVNjlB3dO8fI5r4Va?dl=0
