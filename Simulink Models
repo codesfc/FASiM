@@ -1,1 +1,24 @@
-Simulink Models for Analog Filters
+# Simulink Models for Analog Filters
+The Simulink models for the library of the analog filters can be found on the following links.
+
+01. Sallen-Key Low Pass Filter     
+
+02. Sallen-Key High Pass Filter
+
+03. RC Lowpass Filter
+
+04. First Order All Pass
+
+05. Second Order All Pass
+
+06. Sallen-Key Band Pass Filter
+
+07. Mutiple Feedback Low Pass
+
+08. Multiple Feedback High Pass
+
+09. Multiple Feedback Band Pass
+
+10. Boctor Notch Low Pass
+
+11. Boctor Notch High Pass
